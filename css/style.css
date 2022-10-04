@@ -19,6 +19,7 @@ body {
   width: 270px;
   height: 420px;
   border-radius: 10px;
+  margin: 1.3rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -27,11 +28,11 @@ body {
 
 .img-holder {
   text-align: center;
-  padding: 10px;
+  margin: 1.5rem;
 }
 
 .qr-img {
-  width: 250px;
+  width: 220px;
   border-radius: 10px;
 }
 
@@ -41,17 +42,17 @@ body {
 }
 
 .main-text {
-  font-size: 18px;
+  font-size: 1.2rem;
   font-weight: 700;
-  margin: 5px 15px;
-  margin-top: 12px;
+  margin: .4rem 1rem;
+  margin-top: .8rem;
   color: hsl(218, 44%, 22%);
 }
 
 .sub-text {
-  font-size: 13px;
+  font-size: .8rem;
   font-weight: 400;
-  margin: 10px 20px;
-  margin-top: 12px;
+  margin: 0.8rem 1.5rem;
+  margin-top: .8rem;
   color: hsl(220, 15%, 55%);
 }
